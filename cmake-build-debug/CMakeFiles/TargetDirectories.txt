@@ -1,0 +1,3 @@
+/Users/marcin/CLionProjects/isItSquare/cmake-build-debug/CMakeFiles/isItSquare.dir
+/Users/marcin/CLionProjects/isItSquare/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcin/CLionProjects/isItSquare/cmake-build-debug/CMakeFiles/rebuild_cache.dir
